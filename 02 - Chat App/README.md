@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Chat App using ReactJS - ReactChatEngine / ChatEngine.io
 
 
 ![This is an image](./app.png)
