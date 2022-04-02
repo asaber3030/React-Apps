@@ -1,1 +1,1 @@
-# React-Simple-Apps
+# React-Apps
